@@ -1,6 +1,7 @@
+
 {
-"name": "KVPPOOL",
-"description": "Key Vault Pro",
-"ticker": "kvp",
-"homepage": "https://keyvault.pro"
+  "name": "KVP Pool",
+  "ticker": "KVP",
+  "description": "Key Vault Pro",
+  "homepage": "https://keyvault.pro"
 }
